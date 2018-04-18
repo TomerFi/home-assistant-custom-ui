@@ -9,8 +9,9 @@ My current developing environment is HassIO 0.65.5.</br>
 
 ### Script with Custom Text
 **Version** 20180419</br>
-**Tested in** ha ios app, safari, chrome and internet explorer.</br>
+**Tested** Tested with HA ios app, safari, chrome and internet explorer.</br>
 [Community Discussion](https://community.home-assistant.io)</br>
+[Jpg](/pics/state-card-script-custom-text.jpg)
 
 #### Installation
 For installation of this custom ui, place the following files in your HA config/www/custom_ui:
