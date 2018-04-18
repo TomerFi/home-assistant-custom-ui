@@ -9,14 +9,14 @@ My current developing environment is HassIO 0.65.5.</br>
 
 ### Script with Custom Text
 **Version** 20180419</br>
-**Tested** Tested with HA ios app, safari, chrome and internet explorer.</br>
+**Tested** with HA ios app, safari, chrome and internet explorer.</br>
 [Community Discussion](https://community.home-assistant.io)</br>
-[Jpg](/pics/state-card-script-custom-text.jpg)
+[Picture](/pics/state-card-script-custom-text.jpg)</br>
 
 #### Installation
 For installation of this custom ui, place the following files in your HA config/www/custom_ui:
-- [**config/www/custom_ui/state-card-script-custom-text.html**](/www/custom_ui/state-card-script-custom-text.html)
-- [**config/www/custom_ui/state-card-script-custom-text-es5.html**](/www/custom_ui/state-card-script-custom-text-es5.html)</br>
+- [config/www/custom_ui/state-card-script-custom-text.html](/www/custom_ui/state-card-script-custom-text.html)
+- [config/www/custom_ui/state-card-script-custom-text-es5.html](/www/custom_ui/state-card-script-custom-text-es5.html)</br>
 
 Open you *configuration.yaml* file and find the [*frontend* component](https://www.home-assistant.io/components/frontend/) (add it if you can't find it), configure it as such:
 ```yaml
