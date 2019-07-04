@@ -1,4 +1,14 @@
-# Home Assistant Custom UI Components
+# Home Assistant Custom UI Components</br>![Maintenance](https://img.shields.io/maintenance/no/2019.svg)
+
+**NOT MAINTAINED!**
+
+I'm no longer maintaining this repository, this was a pre lovelace ui solution.</br>
+
+You can still use the files :point_up:, if you want.</br>
+These :point_down: are the instructions.
+
+__________________________________________
+
 
 This repository contains various Custom UI cards I've made for use with [Home Assistant](https://home-assistant.io/).</br>
 
